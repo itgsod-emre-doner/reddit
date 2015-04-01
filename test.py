@@ -2,9 +2,9 @@ from reddit  import client
 from reddit.user import User
 from reddit.reddits import Subreddit
 
-bojohan = client.login('bojohan')
+Donzuh = client.login('Donzuh')
 
-bojohan.me()
+Donzuh.me()
 
 
 # python = Subreddit("python")
